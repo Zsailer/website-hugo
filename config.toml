@@ -1,0 +1,18 @@
+baseurl = "http://yourSiteHere"
+languageCode = "en-us"
+title = "signal in the noise"
+contentdir= "content"
+layoutdir = "layouts"
+publishdir = "public"
+author = "Zach Sailer"
+
+[indexes]
+
+[Params]
+    AuthorName = "Zach"
+    github = "Zsailer"
+    twitter= "zrsailer"
+    description = "sharing snippets of information i've found useful, interesting, or amusing."
+    cover = "/images/ithink.jpg"
+    
+
