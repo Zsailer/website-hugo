@@ -5,7 +5,6 @@ Tags = ["Electronic Notebooks", "Jupyter", "IPython"]
 date = "2015-04-24T10:22:32-07:00"
 menu = "main"
 title = "Reproducible Electronic Notebooks"
-
 +++
 
 # The Jupyter Notebook
